@@ -1,7 +1,7 @@
 Custom Unix Shell in C
 
 Description:
-A minimalist Unix shell written in C that interprets and executes terminal commands. This project demonstrates core Systems Programming concepts, including process creation, dynamic memory management, and Inter-Process Communication (IPC).
+A Unix shell written in C that executes terminal commands.
 
 Key Features:
 - Process Management: Utilizes fork(), execvp(), and waitpid() to create and manage child processes for executing standard system commands (e.g., ls, cat, grep).
